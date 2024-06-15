@@ -4,4 +4,9 @@
 keylogger.txt
 client_secret_file.json
 token.json
-.idea
+
+# Ignore the directory and all its contents
+/venv/
+
+# Ignore the directory and all its contents
+/idea/
